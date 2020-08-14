@@ -17,10 +17,9 @@
 <prev>
   <strong>running with npm</strong><br>
   1.npm install<br>
-  2.npm run serve<br>
+  2.npm run build<br>
+  3.npm run serve<br>
   </prev>
   <h3>ez project</h3>
-  <p>I am a noob learning front-end and this is my first project by Vue.<br>
-  My E-mail: pan1336894784@gmail.com
-  </p>
+
   
